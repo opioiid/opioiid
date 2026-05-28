@@ -6,4 +6,4 @@
 
   [rentry](https://rentry.co/guidomista) :: [ata](https://mista.atabook.org/) :: [oomftography](https://kokichhi.straw.page/camelbycamel)
 
-[opiod](https://github.com/naramis)
+old user was @KOKlCHI (my alt now ok?)
