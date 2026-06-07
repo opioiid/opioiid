@@ -7,3 +7,5 @@
   [rentry](https://rentry.co/guidomista) :: [ata](https://mista.atabook.org/) :: [oomftography](https://kokichhi.straw.page/camelbycamel)
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=orange&style=plastic&label=bois)
+
+<img width="546" height="70" alt="image" src="https://github.com/user-attachments/assets/00df84d2-91e7-4ead-a106-f7c0df958a3a" />
