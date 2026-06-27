@@ -4,6 +4,6 @@
 
 ^ MADE BY MY GLORIOUS KING [ZJ](https://github.com/cannibalisticchef) *!* <33
 
-  [rentry](https://rentry.co/guidomista) :: [ata](https://mista.atabook.org/) :: [oomftography](https://kokichhi.straw.page/camelbycamel)
+  [rentry](https://rentry.co/guidomista) :: [ata](https://mista.atabook.org/)
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=orange&style=plastic&label=bois)
