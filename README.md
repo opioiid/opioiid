@@ -1,9 +1,7 @@
 <div align="center">
-<img width="380" height="302" alt="Untitled609_20260514110439" src="https://github.com/user-attachments/assets/ad13d261-0fd0-42a4-b867-3883345907b0" />
+<img width="298" height="247" alt="photoshopped picture of beautiful ladybug with jeff the killer's face over it also the ladybug is on a leaf" src="https://github.com/user-attachments/assets/b15a66eb-76d5-4228-83d5-944868be7e34" />
 
-
-^ MADE BY MY GLORIOUS KING [ZJ](https://github.com/cannibalisticchef) *!* <33
 
   [rentry](https://rentry.co/guidomista) :: [ata](https://mista.atabook.org/)
 
-![](https://komarev.com/ghpvc/?username=opioiid&color=orange&style=plastic&label=bois)
+![](https://komarev.com/ghpvc/?username=opioiid&color=green&style=plastic&label=bois)
