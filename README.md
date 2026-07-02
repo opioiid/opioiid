@@ -5,3 +5,5 @@
   **[rentry](https://rentry.co/guidomista) :: [atabook](https://mista.atabook.org/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=green&style=plastic&label=bois)
+
+[new rentry](https://rentry.co/starnostar)
