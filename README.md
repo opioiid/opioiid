@@ -6,4 +6,4 @@
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=green&style=plastic&label=bois)
 
-[new rentry](https://rentry.co/starnostar)
+[join mai server o_O](https://discord.gg/YEPfskDC6Q)
