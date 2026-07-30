@@ -1,7 +1,8 @@
 <div align="center">
-<img width="298" height="247" alt="photoshopped picture of beautiful ladybug with jeff the killer's face over it also the ladybug is on a leaf" src="https://github.com/user-attachments/assets/b15a66eb-76d5-4228-83d5-944868be7e34" />
+<img width="460" height="228" alt="hi" src="https://github.com/user-attachments/assets/816b6ec4-cd78-4cf8-812b-c846e8613a82" />
+
 
 
   **[rentry](https://rentry.co/guidomista) :: [atabook](https://mista.atabook.org/)**
 
-![](https://komarev.com/ghpvc/?username=opioiid&color=green&style=plastic&label=bois)
+![](https://komarev.com/ghpvc/?username=opioiid&color=c30c10&style=plastic&label=bois)
