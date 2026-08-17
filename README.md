@@ -3,6 +3,6 @@
 
 
 
-  **[rentry](https://rentry.co/guidomista) :: [atabook](https://mista.atabook.org/)**
+  **[strawp](https://hot-pants.straw.page/) :: [atabook](https://mista.atabook.org/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=c30c10&style=plastic&label=bois)
