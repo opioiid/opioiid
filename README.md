@@ -1,8 +1,9 @@
 <div align="center">
-<img width="460" height="228" alt="hi" src="https://github.com/user-attachments/assets/816b6ec4-cd78-4cf8-812b-c846e8613a82" />
+<img width="290" height="181" alt="image of hot pants from jojo's bizarre adventure: steel ball run with an overlay of the Mexico flag" src="https://github.com/user-attachments/assets/60fb1097-8126-4871-aaf2-e5af8060b935" />
+
 
 
 
   **[strawp](https://hot-pants.straw.page/) :: [atabook](https://mista.atabook.org/)**
 
-![](https://komarev.com/ghpvc/?username=opioiid&color=c30c10&style=plastic&label=bois)
+![](https://komarev.com/ghpvc/?username=opioiid&color=f6f2f0&style=plastic&label=bois)
