@@ -4,6 +4,6 @@
 
 
 
-  **[strawp](https://hot-pants.straw.page/) :: [atabook](https://mista.atabook.org/)**
+  **[strawp](https://dino-pants.straw.page/) :: [atabook](https://mista.atabook.org/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=f6f2f0&style=plastic&label=bois)
