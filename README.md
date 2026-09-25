@@ -7,3 +7,5 @@
   **[strawp](https://dino-pants.straw.page/) :: [atabook](https://mista.atabook.org/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=f6f2f0&style=plastic&label=bois)
+
+[google doc pls read](https://docs.google.com/document/d/10hLc5gBsIbZK1fesyYljLigT5ybxrey0zgLKXNKOMbo/edit?pli=1&tab=t.0)
