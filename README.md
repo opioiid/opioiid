@@ -6,3 +6,5 @@
 **[atabook](https://mista.atabook.org/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=f6f2f0&style=plastic&label=bois)
+
+<img width="526" height="58" alt="Screenshot 2026-10-03 124517" src="https://github.com/user-attachments/assets/b3255ac1-09a4-4af3-a833-fe2f9e263d1c" />
