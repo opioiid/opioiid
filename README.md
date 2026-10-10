@@ -3,7 +3,7 @@
 
 
 
-**[atabook](https://mista.atabook.org/)**
+**[atabook](https://mista.atabook.org/) . [strawpage](https://hot-pants.straw.page/)**
 
 ![](https://komarev.com/ghpvc/?username=opioiid&color=f6f2f0&style=plastic&label=bois)
 
