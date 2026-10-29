@@ -26,8 +26,12 @@ around the map or near spawn
 ![](https://komarev.com/ghpvc/?username=opioiid&color=e5c0b4&style=plastic&label=bois)
 </div>
 
+⏔⏔۶ৎ⏔⏔
+
 <div align="center">
 <a href="https://github.com/KOKlCHI">
   <img src="https://github.com/user-attachments/assets/0a050bae-7984-4243-b0ee-108b34aab0dd" alt="Banner"  style="width:75%; height:auto"/>
 </a>
 </br>
+
+pfp by [rira](https://www.pinterest.com/mariacadenzavnaeve/) 𐙚⋆.˚
