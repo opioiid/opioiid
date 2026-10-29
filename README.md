@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/KOKlCHI">
-  <img src="https://github.com/user-attachments/assets/0a050bae-7984-4243-b0ee-108b34aab0dd" alt="Banner"  style="width:75%; height:auto"/>
+  <img src="https://github.com/user-attachments/assets/15d64646-c7b6-46d6-8aeb-9486bcb74d24" alt="Banner"  style="width95%; height:auto"/>
 </a>
 </br>
 
@@ -26,4 +26,8 @@ around the map or near spawn
 ![](https://komarev.com/ghpvc/?username=opioiid&color=e5c0b4&style=plastic&label=bois)
 </div>
 
-wip 
+<div align="center">
+<a href="https://github.com/KOKlCHI">
+  <img src="https://github.com/user-attachments/assets/0a050bae-7984-4243-b0ee-108b34aab0dd" alt="Banner"  style="width:75%; height:auto"/>
+</a>
+</br>
