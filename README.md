@@ -43,3 +43,9 @@ pfp by [rira](https://www.pinterest.com/mariacadenzavnaeve/) 𐙚⋆.˚
 [<img align='center' width="115" src="https://github.com/user-attachments/assets/c081e97a-ad1f-4734-b8d0-be517dbdc5b8" />](https://github.com/angxlpraize)
 [<img align='center' width="115" src="https://github.com/user-attachments/assets/3ede64a4-33c7-4cfa-8522-5d9f287912c2" />](https://github.com/bastetngeb)
 [<img align='center' width="132" src="https://github.com/user-attachments/assets/0a8fde90-3f4f-4c17-af8b-bebf34d101e5" />](https://github.com/newestalbum)
+
+
+
+
+<img width="200" alt="pic" src="https://github.com/user-attachments/assets/f61d64e7-840a-4ad8-ae14-d6f4ea2d738b" />
+<img width="200" alt="pic2" src="https://github.com/user-attachments/assets/360b4d39-4e66-4ae5-be37-15c8c177420d" />
