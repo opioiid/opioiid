@@ -49,4 +49,5 @@ pfp by [rira](https://www.pinterest.com/mariacadenzavnaeve/) 𐙚⋆.˚
 
 <img width="200" alt="pic" src="https://github.com/user-attachments/assets/f61d64e7-840a-4ad8-ae14-d6f4ea2d738b" />
 <img width="200" alt="pic2" src="https://github.com/user-attachments/assets/f4812a55-c543-4b3e-b98d-4962e261f5fd" />
+<img width="200" alt="pic3" src="https://github.com/user-attachments/assets/f93b15b6-edf8-4360-a7fe-892e640a1392" />
 
